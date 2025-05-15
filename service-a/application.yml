@@ -1,3 +1,2 @@
- # config-repo/service-a/application.yml
- service:
- name: test service A
+service:
+name: test service A
