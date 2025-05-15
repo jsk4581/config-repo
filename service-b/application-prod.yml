@@ -1,5 +1,5 @@
 service:
- name: "Service B - Production Environment"
+ name: "Service B - 202135708 구준서"
 logging: 
  level:
   root: WARN
