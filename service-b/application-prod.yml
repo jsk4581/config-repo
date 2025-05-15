@@ -1,5 +1,2 @@
 service:
  name: "Service B - 202135708 구준서"
-logging: 
- level:
-  root: WARN
